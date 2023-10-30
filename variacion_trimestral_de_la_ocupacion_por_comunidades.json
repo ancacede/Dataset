@@ -1,0 +1,177 @@
+﻿{
+    "Url": "www.epdata.es/variacion-trimestral-ocupacion-comunidades/43308341-c5a6-4ec8-b83a-ad588e6c2b39",
+    "Respuesta": {
+        "Id": "43308341-c5a6-4ec8-b83a-ad588e6c2b39",
+        "Url": "www.epdata.es/variacion-trimestral-ocupacion-comunidades/43308341-c5a6-4ec8-b83a-ad588e6c2b39",
+        "Titulo": "Variación trimestral de la ocupación por comunidades",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Encuesta de ocupación a nivel trimestral - Variación absoluta de Número de personas con respecto al trimestre anterior para total como sexo, total como grupo de edad y Canarias, Ceuta, Cataluña, Castilla-La Mancha, Andalucía, Navarra, Asturias, Aragón, Castilla León, Cantabria, Murcia, La Rioja, Comunidad Valenciana, País Vasco, Extremadura, Madrid, Galicia, Islas Baleares, Melilla como comunidad autónoma",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "Número de personas",
+                    "Escala": "Miles",
+                    "EscalaFactorPotencia10": 3,
+                    "Datos": [
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Andalucía",
+                            "Valor": -3.80004882813,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Aragón",
+                            "Valor": 2,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Asturias",
+                            "Valor": -1.100006103515,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Canarias",
+                            "Valor": -1.299987792969,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Cantabria",
+                            "Valor": 4.300003051758,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Castilla y León",
+                            "Valor": 9,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Castilla-La Mancha",
+                            "Valor": 11.900024414062,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Cataluña",
+                            "Valor": 62.39990234375,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Ceuta",
+                            "Valor": 0.8999996185303,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Comunidad Valenciana",
+                            "Valor": 80.69995117187,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Extremadura",
+                            "Valor": 5.100006103515,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Galicia",
+                            "Valor": 14.20007324218,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Islas Baleares",
+                            "Valor": 35.200012207031,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "La Rioja",
+                            "Valor": -0.899993896484,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Madrid",
+                            "Valor": -15.7001953125,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Melilla",
+                            "Valor": -0.1000003814697,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Murcia",
+                            "Valor": 6.199951171876,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Navarra",
+                            "Valor": 2.799987792969,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "País Vasco",
+                            "Valor": -2.799987792969,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
