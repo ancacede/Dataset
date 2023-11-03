@@ -1,0 +1,2953 @@
+﻿{
+    "Url": "www.epdata.es/proyeccion-poblacion-espanola-varios-escenarios-migratorios-natalidad/498259ae-43d4-440b-ae03-88123698707f",
+    "Respuesta": {
+        "Id": "498259ae-43d4-440b-ae03-88123698707f",
+        "Url": "www.epdata.es/proyeccion-poblacion-espanola-varios-escenarios-migratorios-natalidad/498259ae-43d4-440b-ae03-88123698707f",
+        "Titulo": "Proyección de la población española según varios escenarios de migración y natalidad",
+        "Subtitulo": "Hasta 2072",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "1. Fecundidad alta",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "Personas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "2022",
+                            "Valor": 47432805,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "2023",
+                            "Valor": 47797577,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2024,
+                            "Periodo": "Año",
+                            "Parametro": "2024",
+                            "Valor": 48194844,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2025,
+                            "Periodo": "Año",
+                            "Parametro": "2025",
+                            "Valor": 48593637,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2026,
+                            "Periodo": "Año",
+                            "Parametro": "2026",
+                            "Valor": 48989998,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2027,
+                            "Periodo": "Año",
+                            "Parametro": "2027",
+                            "Valor": 49377388,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2028,
+                            "Periodo": "Año",
+                            "Parametro": "2028",
+                            "Valor": 49750675,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2029,
+                            "Periodo": "Año",
+                            "Parametro": "2029",
+                            "Valor": 50107905,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2030,
+                            "Periodo": "Año",
+                            "Parametro": "2030",
+                            "Valor": 50445304,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2031,
+                            "Periodo": "Año",
+                            "Parametro": "2031",
+                            "Valor": 50759840,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2032,
+                            "Periodo": "Año",
+                            "Parametro": "2032",
+                            "Valor": 51052872,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2033,
+                            "Periodo": "Año",
+                            "Parametro": "2033",
+                            "Valor": 51324067,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2034,
+                            "Periodo": "Año",
+                            "Parametro": "2034",
+                            "Valor": 51574150,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "2035",
+                            "Valor": 51802611,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2036,
+                            "Periodo": "Año",
+                            "Parametro": "2036",
+                            "Valor": 52013316,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2037,
+                            "Periodo": "Año",
+                            "Parametro": "2037",
+                            "Valor": 52214548,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2038,
+                            "Periodo": "Año",
+                            "Parametro": "2038",
+                            "Valor": 52416203,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2039,
+                            "Periodo": "Año",
+                            "Parametro": "2039",
+                            "Valor": 52617684,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2040,
+                            "Periodo": "Año",
+                            "Parametro": "2040",
+                            "Valor": 52818142,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2041,
+                            "Periodo": "Año",
+                            "Parametro": "2041",
+                            "Valor": 53015884,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2042,
+                            "Periodo": "Año",
+                            "Parametro": "2042",
+                            "Valor": 53210474,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2043,
+                            "Periodo": "Año",
+                            "Parametro": "2043",
+                            "Valor": 53400674,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2044,
+                            "Periodo": "Año",
+                            "Parametro": "2044",
+                            "Valor": 53585119,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2045,
+                            "Periodo": "Año",
+                            "Parametro": "2045",
+                            "Valor": 53762903,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2046,
+                            "Periodo": "Año",
+                            "Parametro": "2046",
+                            "Valor": 53933105,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2047,
+                            "Periodo": "Año",
+                            "Parametro": "2047",
+                            "Valor": 54095167,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2048,
+                            "Periodo": "Año",
+                            "Parametro": "2048",
+                            "Valor": 54248444,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2049,
+                            "Periodo": "Año",
+                            "Parametro": "2049",
+                            "Valor": 54392474,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2050,
+                            "Periodo": "Año",
+                            "Parametro": "2050",
+                            "Valor": 54527462,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2051,
+                            "Periodo": "Año",
+                            "Parametro": "2051",
+                            "Valor": 54653728,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2052,
+                            "Periodo": "Año",
+                            "Parametro": "2052",
+                            "Valor": 54771681,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2053,
+                            "Periodo": "Año",
+                            "Parametro": "2053",
+                            "Valor": 54881967,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2054,
+                            "Periodo": "Año",
+                            "Parametro": "2054",
+                            "Valor": 54985739,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2055,
+                            "Periodo": "Año",
+                            "Parametro": "2055",
+                            "Valor": 55084388,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2056,
+                            "Periodo": "Año",
+                            "Parametro": "2056",
+                            "Valor": 55179395,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2057,
+                            "Periodo": "Año",
+                            "Parametro": "2057",
+                            "Valor": 55272482,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2058,
+                            "Periodo": "Año",
+                            "Parametro": "2058",
+                            "Valor": 55365358,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2059,
+                            "Periodo": "Año",
+                            "Parametro": "2059",
+                            "Valor": 55459967,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2060,
+                            "Periodo": "Año",
+                            "Parametro": "2060",
+                            "Valor": 55558180,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2061,
+                            "Periodo": "Año",
+                            "Parametro": "2061",
+                            "Valor": 55661750,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2062,
+                            "Periodo": "Año",
+                            "Parametro": "2062",
+                            "Valor": 55772368,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2063,
+                            "Periodo": "Año",
+                            "Parametro": "2063",
+                            "Valor": 55891414,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2064,
+                            "Periodo": "Año",
+                            "Parametro": "2064",
+                            "Valor": 56020098,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2065,
+                            "Periodo": "Año",
+                            "Parametro": "2065",
+                            "Valor": 56159430,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2066,
+                            "Periodo": "Año",
+                            "Parametro": "2066",
+                            "Valor": 56310520,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2067,
+                            "Periodo": "Año",
+                            "Parametro": "2067",
+                            "Valor": 56474138,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2068,
+                            "Periodo": "Año",
+                            "Parametro": "2068",
+                            "Valor": 56650806,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2069,
+                            "Periodo": "Año",
+                            "Parametro": "2069",
+                            "Valor": 56841040,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2070,
+                            "Periodo": "Año",
+                            "Parametro": "2070",
+                            "Valor": 57045068,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2071,
+                            "Periodo": "Año",
+                            "Parametro": "2071",
+                            "Valor": 57262986,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2072,
+                            "Periodo": "Año",
+                            "Parametro": "2072",
+                            "Valor": 57494715,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                },
+                {
+                    "Id": 1,
+                    "Nombre": "2. Fecundidad baja",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "Personas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "2022",
+                            "Valor": 47432805,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "2023",
+                            "Valor": 47792795,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2024,
+                            "Periodo": "Año",
+                            "Parametro": "2024",
+                            "Valor": 48176051,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2025,
+                            "Periodo": "Año",
+                            "Parametro": "2025",
+                            "Valor": 48551445,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2026,
+                            "Periodo": "Año",
+                            "Parametro": "2026",
+                            "Valor": 48914804,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2027,
+                            "Periodo": "Año",
+                            "Parametro": "2027",
+                            "Valor": 49259337,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2028,
+                            "Periodo": "Año",
+                            "Parametro": "2028",
+                            "Valor": 49579661,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2029,
+                            "Periodo": "Año",
+                            "Parametro": "2029",
+                            "Valor": 49873580,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2030,
+                            "Periodo": "Año",
+                            "Parametro": "2030",
+                            "Valor": 50137091,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2031,
+                            "Periodo": "Año",
+                            "Parametro": "2031",
+                            "Valor": 50366956,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2032,
+                            "Periodo": "Año",
+                            "Parametro": "2032",
+                            "Valor": 50564356,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2033,
+                            "Periodo": "Año",
+                            "Parametro": "2033",
+                            "Valor": 50728806,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2034,
+                            "Periodo": "Año",
+                            "Parametro": "2034",
+                            "Valor": 50860909,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "2035",
+                            "Valor": 50960098,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2036,
+                            "Periodo": "Año",
+                            "Parametro": "2036",
+                            "Valor": 51030244,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2037,
+                            "Periodo": "Año",
+                            "Parametro": "2037",
+                            "Valor": 51079674,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2038,
+                            "Periodo": "Año",
+                            "Parametro": "2038",
+                            "Valor": 51124983,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2039,
+                            "Periodo": "Año",
+                            "Parametro": "2039",
+                            "Valor": 51165652,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2040,
+                            "Periodo": "Año",
+                            "Parametro": "2040",
+                            "Valor": 51200986,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2041,
+                            "Periodo": "Año",
+                            "Parametro": "2041",
+                            "Valor": 51229494,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2042,
+                            "Periodo": "Año",
+                            "Parametro": "2042",
+                            "Valor": 51251001,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2043,
+                            "Periodo": "Año",
+                            "Parametro": "2043",
+                            "Valor": 51264568,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2044,
+                            "Periodo": "Año",
+                            "Parametro": "2044",
+                            "Valor": 51269164,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2045,
+                            "Periodo": "Año",
+                            "Parametro": "2045",
+                            "Valor": 51264200,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2046,
+                            "Periodo": "Año",
+                            "Parametro": "2046",
+                            "Valor": 51249050,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2047,
+                            "Periodo": "Año",
+                            "Parametro": "2047",
+                            "Valor": 51223412,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2048,
+                            "Periodo": "Año",
+                            "Parametro": "2048",
+                            "Valor": 51186836,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2049,
+                            "Periodo": "Año",
+                            "Parametro": "2049",
+                            "Valor": 51138965,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2050,
+                            "Periodo": "Año",
+                            "Parametro": "2050",
+                            "Valor": 51080008,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2051,
+                            "Periodo": "Año",
+                            "Parametro": "2051",
+                            "Valor": 51010191,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2052,
+                            "Periodo": "Año",
+                            "Parametro": "2052",
+                            "Valor": 50929697,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2053,
+                            "Periodo": "Año",
+                            "Parametro": "2053",
+                            "Valor": 50838820,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2054,
+                            "Periodo": "Año",
+                            "Parametro": "2054",
+                            "Valor": 50738218,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2055,
+                            "Periodo": "Año",
+                            "Parametro": "2055",
+                            "Valor": 50628666,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2056,
+                            "Periodo": "Año",
+                            "Parametro": "2056",
+                            "Valor": 50510924,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2057,
+                            "Periodo": "Año",
+                            "Parametro": "2057",
+                            "Valor": 50385921,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2058,
+                            "Periodo": "Año",
+                            "Parametro": "2058",
+                            "Valor": 50254541,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2059,
+                            "Periodo": "Año",
+                            "Parametro": "2059",
+                            "Valor": 50117913,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2060,
+                            "Periodo": "Año",
+                            "Parametro": "2060",
+                            "Valor": 49977125,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2061,
+                            "Periodo": "Año",
+                            "Parametro": "2061",
+                            "Valor": 49833224,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2062,
+                            "Periodo": "Año",
+                            "Parametro": "2062",
+                            "Valor": 49687300,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2063,
+                            "Periodo": "Año",
+                            "Parametro": "2063",
+                            "Valor": 49540245,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2064,
+                            "Periodo": "Año",
+                            "Parametro": "2064",
+                            "Valor": 49392907,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2065,
+                            "Periodo": "Año",
+                            "Parametro": "2065",
+                            "Valor": 49246058,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2066,
+                            "Periodo": "Año",
+                            "Parametro": "2066",
+                            "Valor": 49100698,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2067,
+                            "Periodo": "Año",
+                            "Parametro": "2067",
+                            "Valor": 48957603,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2068,
+                            "Periodo": "Año",
+                            "Parametro": "2068",
+                            "Valor": 48817414,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2069,
+                            "Periodo": "Año",
+                            "Parametro": "2069",
+                            "Valor": 48680866,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2070,
+                            "Periodo": "Año",
+                            "Parametro": "2070",
+                            "Valor": 48548491,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2071,
+                            "Periodo": "Año",
+                            "Parametro": "2071",
+                            "Valor": 48420765,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2072,
+                            "Periodo": "Año",
+                            "Parametro": "2072",
+                            "Valor": 48298053,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                },
+                {
+                    "Id": 2,
+                    "Nombre": "3. Saldo migratorio alto",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "Personas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "2022",
+                            "Valor": 47432805,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "2023",
+                            "Valor": 47795625,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2024,
+                            "Periodo": "Año",
+                            "Parametro": "2024",
+                            "Valor": 48186757,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2025,
+                            "Periodo": "Año",
+                            "Parametro": "2025",
+                            "Valor": 48576505,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2026,
+                            "Periodo": "Año",
+                            "Parametro": "2026",
+                            "Valor": 48962169,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2027,
+                            "Periodo": "Año",
+                            "Parametro": "2027",
+                            "Valor": 49339053,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2028,
+                            "Periodo": "Año",
+                            "Parametro": "2028",
+                            "Valor": 49703459,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2029,
+                            "Periodo": "Año",
+                            "Parametro": "2029",
+                            "Valor": 50053991,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2030,
+                            "Periodo": "Año",
+                            "Parametro": "2030",
+                            "Valor": 50387876,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2031,
+                            "Periodo": "Año",
+                            "Parametro": "2031",
+                            "Valor": 50702855,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2032,
+                            "Periodo": "Año",
+                            "Parametro": "2032",
+                            "Valor": 50999905,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2033,
+                            "Periodo": "Año",
+                            "Parametro": "2033",
+                            "Valor": 51278715,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2034,
+                            "Periodo": "Año",
+                            "Parametro": "2034",
+                            "Valor": 51539739,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "2035",
+                            "Valor": 51782516,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2036,
+                            "Periodo": "Año",
+                            "Parametro": "2036",
+                            "Valor": 52009764,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2037,
+                            "Periodo": "Año",
+                            "Parametro": "2037",
+                            "Valor": 52227382,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2038,
+                            "Periodo": "Año",
+                            "Parametro": "2038",
+                            "Valor": 52444306,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2039,
+                            "Periodo": "Año",
+                            "Parametro": "2039",
+                            "Valor": 52659905,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2040,
+                            "Periodo": "Año",
+                            "Parametro": "2040",
+                            "Valor": 52873324,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2041,
+                            "Periodo": "Año",
+                            "Parametro": "2041",
+                            "Valor": 53082888,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2042,
+                            "Periodo": "Año",
+                            "Parametro": "2042",
+                            "Valor": 53288205,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2043,
+                            "Periodo": "Año",
+                            "Parametro": "2043",
+                            "Valor": 53488105,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2044,
+                            "Periodo": "Año",
+                            "Parametro": "2044",
+                            "Valor": 53681305,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2045,
+                            "Periodo": "Año",
+                            "Parametro": "2045",
+                            "Valor": 53866978,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2046,
+                            "Periodo": "Año",
+                            "Parametro": "2046",
+                            "Valor": 54044273,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2047,
+                            "Periodo": "Año",
+                            "Parametro": "2047",
+                            "Valor": 54212685,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2048,
+                            "Periodo": "Año",
+                            "Parametro": "2048",
+                            "Valor": 54371594,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2049,
+                            "Periodo": "Año",
+                            "Parametro": "2049",
+                            "Valor": 54520520,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2050,
+                            "Periodo": "Año",
+                            "Parametro": "2050",
+                            "Valor": 54659602,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2051,
+                            "Periodo": "Año",
+                            "Parametro": "2051",
+                            "Valor": 54789040,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2052,
+                            "Periodo": "Año",
+                            "Parametro": "2052",
+                            "Valor": 54909055,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2053,
+                            "Periodo": "Año",
+                            "Parametro": "2053",
+                            "Valor": 55020043,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2054,
+                            "Periodo": "Año",
+                            "Parametro": "2054",
+                            "Valor": 55122825,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2055,
+                            "Periodo": "Año",
+                            "Parametro": "2055",
+                            "Valor": 55218396,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2056,
+                            "Periodo": "Año",
+                            "Parametro": "2056",
+                            "Valor": 55307786,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2057,
+                            "Periodo": "Año",
+                            "Parametro": "2057",
+                            "Valor": 55392226,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2058,
+                            "Periodo": "Año",
+                            "Parametro": "2058",
+                            "Valor": 55472917,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2059,
+                            "Periodo": "Año",
+                            "Parametro": "2059",
+                            "Valor": 55551300,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2060,
+                            "Periodo": "Año",
+                            "Parametro": "2060",
+                            "Valor": 55628766,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2061,
+                            "Periodo": "Año",
+                            "Parametro": "2061",
+                            "Valor": 55706631,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2062,
+                            "Periodo": "Año",
+                            "Parametro": "2062",
+                            "Valor": 55786210,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2063,
+                            "Periodo": "Año",
+                            "Parametro": "2063",
+                            "Valor": 55868574,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2064,
+                            "Periodo": "Año",
+                            "Parametro": "2064",
+                            "Valor": 55954700,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2065,
+                            "Periodo": "Año",
+                            "Parametro": "2065",
+                            "Valor": 56045435,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2066,
+                            "Periodo": "Año",
+                            "Parametro": "2066",
+                            "Valor": 56141803,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2067,
+                            "Periodo": "Año",
+                            "Parametro": "2067",
+                            "Valor": 56244556,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2068,
+                            "Periodo": "Año",
+                            "Parametro": "2068",
+                            "Valor": 56354263,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2069,
+                            "Periodo": "Año",
+                            "Parametro": "2069",
+                            "Valor": 56471540,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2070,
+                            "Periodo": "Año",
+                            "Parametro": "2070",
+                            "Valor": 56596763,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2071,
+                            "Periodo": "Año",
+                            "Parametro": "2071",
+                            "Valor": 56730218,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2072,
+                            "Periodo": "Año",
+                            "Parametro": "2072",
+                            "Valor": 56872041,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                },
+                {
+                    "Id": 3,
+                    "Nombre": "4. Saldo migratorio bajo",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "Personas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "2022",
+                            "Valor": 47432805,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "2023",
+                            "Valor": 47795625,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2024,
+                            "Periodo": "Año",
+                            "Parametro": "2024",
+                            "Valor": 48186085,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2025,
+                            "Periodo": "Año",
+                            "Parametro": "2025",
+                            "Valor": 48571803,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2026,
+                            "Periodo": "Año",
+                            "Parametro": "2026",
+                            "Valor": 48947358,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2027,
+                            "Periodo": "Año",
+                            "Parametro": "2027",
+                            "Valor": 49304144,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2028,
+                            "Periodo": "Año",
+                            "Parametro": "2028",
+                            "Valor": 49635378,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2029,
+                            "Periodo": "Año",
+                            "Parametro": "2029",
+                            "Valor": 49938331,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2030,
+                            "Periodo": "Año",
+                            "Parametro": "2030",
+                            "Valor": 50208042,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2031,
+                            "Periodo": "Año",
+                            "Parametro": "2031",
+                            "Valor": 50440525,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2032,
+                            "Periodo": "Año",
+                            "Parametro": "2032",
+                            "Valor": 50637378,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2033,
+                            "Periodo": "Año",
+                            "Parametro": "2033",
+                            "Valor": 50798114,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2034,
+                            "Periodo": "Año",
+                            "Parametro": "2034",
+                            "Valor": 50923630,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "2035",
+                            "Valor": 51013316,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2036,
+                            "Periodo": "Año",
+                            "Parametro": "2036",
+                            "Valor": 51072199,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2037,
+                            "Periodo": "Año",
+                            "Parametro": "2037",
+                            "Valor": 51110986,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2038,
+                            "Periodo": "Año",
+                            "Parametro": "2038",
+                            "Valor": 51146849,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2039,
+                            "Periodo": "Año",
+                            "Parametro": "2039",
+                            "Valor": 51179276,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2040,
+                            "Periodo": "Año",
+                            "Parametro": "2040",
+                            "Valor": 51207540,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2041,
+                            "Periodo": "Año",
+                            "Parametro": "2041",
+                            "Valor": 51230100,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2042,
+                            "Periodo": "Año",
+                            "Parametro": "2042",
+                            "Valor": 51246706,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2043,
+                            "Periodo": "Año",
+                            "Parametro": "2043",
+                            "Valor": 51256331,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2044,
+                            "Periodo": "Año",
+                            "Parametro": "2044",
+                            "Valor": 51257838,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2045,
+                            "Periodo": "Año",
+                            "Parametro": "2045",
+                            "Valor": 51250545,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2046,
+                            "Periodo": "Año",
+                            "Parametro": "2046",
+                            "Valor": 51233742,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2047,
+                            "Periodo": "Año",
+                            "Parametro": "2047",
+                            "Valor": 51207063,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2048,
+                            "Periodo": "Año",
+                            "Parametro": "2048",
+                            "Valor": 51170018,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2049,
+                            "Periodo": "Año",
+                            "Parametro": "2049",
+                            "Valor": 51122257,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2050,
+                            "Periodo": "Año",
+                            "Parametro": "2050",
+                            "Valor": 51064035,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2051,
+                            "Periodo": "Año",
+                            "Parametro": "2051",
+                            "Valor": 50995665,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2052,
+                            "Periodo": "Año",
+                            "Parametro": "2052",
+                            "Valor": 50917475,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2053,
+                            "Periodo": "Año",
+                            "Parametro": "2053",
+                            "Valor": 50829954,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2054,
+                            "Periodo": "Año",
+                            "Parametro": "2054",
+                            "Valor": 50734011,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2055,
+                            "Periodo": "Año",
+                            "Parametro": "2055",
+                            "Valor": 50630717,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2056,
+                            "Periodo": "Año",
+                            "Parametro": "2056",
+                            "Valor": 50521171,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2057,
+                            "Periodo": "Año",
+                            "Parametro": "2057",
+                            "Valor": 50406660,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2058,
+                            "Periodo": "Año",
+                            "Parametro": "2058",
+                            "Valor": 50288431,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2059,
+                            "Periodo": "Año",
+                            "Parametro": "2059",
+                            "Valor": 50167962,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2060,
+                            "Periodo": "Año",
+                            "Parametro": "2060",
+                            "Valor": 50046668,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2061,
+                            "Periodo": "Año",
+                            "Parametro": "2061",
+                            "Valor": 49925880,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2062,
+                            "Periodo": "Año",
+                            "Parametro": "2062",
+                            "Valor": 49806917,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2063,
+                            "Periodo": "Año",
+                            "Parametro": "2063",
+                            "Valor": 49690855,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2064,
+                            "Periodo": "Año",
+                            "Parametro": "2064",
+                            "Valor": 49578662,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2065,
+                            "Periodo": "Año",
+                            "Parametro": "2065",
+                            "Valor": 49471176,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2066,
+                            "Periodo": "Año",
+                            "Parametro": "2066",
+                            "Valor": 49369411,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2067,
+                            "Periodo": "Año",
+                            "Parametro": "2067",
+                            "Valor": 49274109,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2068,
+                            "Periodo": "Año",
+                            "Parametro": "2068",
+                            "Valor": 49185839,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2069,
+                            "Periodo": "Año",
+                            "Parametro": "2069",
+                            "Valor": 49105219,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2070,
+                            "Periodo": "Año",
+                            "Parametro": "2070",
+                            "Valor": 49032644,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2071,
+                            "Periodo": "Año",
+                            "Parametro": "2071",
+                            "Valor": 48968428,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2072,
+                            "Periodo": "Año",
+                            "Parametro": "2072",
+                            "Valor": 48912753,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                },
+                {
+                    "Id": 4,
+                    "Nombre": "5. Fecundidad y saldo migratorio altos",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "Personas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "2022",
+                            "Valor": 47432805,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "2023",
+                            "Valor": 47797577,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2024,
+                            "Periodo": "Año",
+                            "Parametro": "2024",
+                            "Valor": 48195180,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2025,
+                            "Periodo": "Año",
+                            "Parametro": "2025",
+                            "Valor": 48595990,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2026,
+                            "Periodo": "Año",
+                            "Parametro": "2026",
+                            "Valor": 48997410,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2027,
+                            "Periodo": "Año",
+                            "Parametro": "2027",
+                            "Valor": 49394860,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2028,
+                            "Periodo": "Año",
+                            "Parametro": "2028",
+                            "Valor": 49784764,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2029,
+                            "Periodo": "Año",
+                            "Parametro": "2029",
+                            "Valor": 50165845,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2030,
+                            "Periodo": "Año",
+                            "Parametro": "2030",
+                            "Valor": 50535448,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2031,
+                            "Periodo": "Año",
+                            "Parametro": "2031",
+                            "Valor": 50891427,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2032,
+                            "Periodo": "Año",
+                            "Parametro": "2032",
+                            "Valor": 51234864,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2033,
+                            "Periodo": "Año",
+                            "Parametro": "2033",
+                            "Valor": 51565548,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2034,
+                            "Periodo": "Año",
+                            "Parametro": "2034",
+                            "Valor": 51884020,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "2035",
+                            "Valor": 52189885,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2036,
+                            "Periodo": "Año",
+                            "Parametro": "2036",
+                            "Valor": 52485897,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2037,
+                            "Periodo": "Año",
+                            "Parametro": "2037",
+                            "Valor": 52777974,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2038,
+                            "Periodo": "Año",
+                            "Parametro": "2038",
+                            "Valor": 53071837,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2039,
+                            "Periodo": "Año",
+                            "Parametro": "2039",
+                            "Valor": 53366830,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2040,
+                            "Periodo": "Año",
+                            "Parametro": "2040",
+                            "Valor": 53662037,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2041,
+                            "Periodo": "Año",
+                            "Parametro": "2041",
+                            "Valor": 53955696,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2042,
+                            "Periodo": "Año",
+                            "Parametro": "2042",
+                            "Valor": 54247296,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2043,
+                            "Periodo": "Año",
+                            "Parametro": "2043",
+                            "Valor": 54535526,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2044,
+                            "Periodo": "Año",
+                            "Parametro": "2044",
+                            "Valor": 54818943,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2045,
+                            "Periodo": "Año",
+                            "Parametro": "2045",
+                            "Valor": 55096565,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2046,
+                            "Periodo": "Año",
+                            "Parametro": "2046",
+                            "Valor": 55367399,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2047,
+                            "Periodo": "Año",
+                            "Parametro": "2047",
+                            "Valor": 55630812,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2048,
+                            "Periodo": "Año",
+                            "Parametro": "2048",
+                            "Valor": 55886088,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2049,
+                            "Periodo": "Año",
+                            "Parametro": "2049",
+                            "Valor": 56132704,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2050,
+                            "Periodo": "Año",
+                            "Parametro": "2050",
+                            "Valor": 56370801,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2051,
+                            "Periodo": "Año",
+                            "Parametro": "2051",
+                            "Valor": 56600644,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2052,
+                            "Periodo": "Año",
+                            "Parametro": "2052",
+                            "Valor": 56822590,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2053,
+                            "Periodo": "Año",
+                            "Parametro": "2053",
+                            "Valor": 57037240,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2054,
+                            "Periodo": "Año",
+                            "Parametro": "2054",
+                            "Valor": 57245706,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2055,
+                            "Periodo": "Año",
+                            "Parametro": "2055",
+                            "Valor": 57449346,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2056,
+                            "Periodo": "Año",
+                            "Parametro": "2056",
+                            "Valor": 57649616,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2057,
+                            "Periodo": "Año",
+                            "Parametro": "2057",
+                            "Valor": 57848218,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2058,
+                            "Periodo": "Año",
+                            "Parametro": "2058",
+                            "Valor": 58046850,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2059,
+                            "Periodo": "Año",
+                            "Parametro": "2059",
+                            "Valor": 58247454,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2060,
+                            "Periodo": "Año",
+                            "Parametro": "2060",
+                            "Valor": 58451903,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2061,
+                            "Periodo": "Año",
+                            "Parametro": "2061",
+                            "Valor": 58661963,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2062,
+                            "Periodo": "Año",
+                            "Parametro": "2062",
+                            "Valor": 58879344,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2063,
+                            "Periodo": "Año",
+                            "Parametro": "2063",
+                            "Valor": 59105449,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2064,
+                            "Periodo": "Año",
+                            "Parametro": "2064",
+                            "Valor": 59341518,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2065,
+                            "Periodo": "Año",
+                            "Parametro": "2065",
+                            "Valor": 59588592,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2066,
+                            "Periodo": "Año",
+                            "Parametro": "2066",
+                            "Valor": 59847817,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2067,
+                            "Periodo": "Año",
+                            "Parametro": "2067",
+                            "Valor": 60119994,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2068,
+                            "Periodo": "Año",
+                            "Parametro": "2068",
+                            "Valor": 60405673,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2069,
+                            "Periodo": "Año",
+                            "Parametro": "2069",
+                            "Valor": 60705390,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2070,
+                            "Periodo": "Año",
+                            "Parametro": "2070",
+                            "Valor": 61019386,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2071,
+                            "Periodo": "Año",
+                            "Parametro": "2071",
+                            "Valor": 61347760,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2072,
+                            "Periodo": "Año",
+                            "Parametro": "2072",
+                            "Valor": 61690426,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                },
+                {
+                    "Id": 5,
+                    "Nombre": "6. Fecundidad y saldo migratorio bajos",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "Personas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "2022",
+                            "Valor": 47432805,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "2023",
+                            "Valor": 47792795,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2024,
+                            "Periodo": "Año",
+                            "Parametro": "2024",
+                            "Valor": 48175715,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2025,
+                            "Periodo": "Año",
+                            "Parametro": "2025",
+                            "Valor": 48549097,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2026,
+                            "Periodo": "Año",
+                            "Parametro": "2026",
+                            "Valor": 48907405,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2027,
+                            "Periodo": "Año",
+                            "Parametro": "2027",
+                            "Valor": 49241901,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2028,
+                            "Periodo": "Año",
+                            "Parametro": "2028",
+                            "Valor": 49545672,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2029,
+                            "Periodo": "Año",
+                            "Parametro": "2029",
+                            "Valor": 49815866,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2030,
+                            "Periodo": "Año",
+                            "Parametro": "2030",
+                            "Valor": 50047413,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2031,
+                            "Periodo": "Año",
+                            "Parametro": "2031",
+                            "Valor": 50236237,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2032,
+                            "Periodo": "Año",
+                            "Parametro": "2032",
+                            "Valor": 50383866,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2033,
+                            "Periodo": "Año",
+                            "Parametro": "2033",
+                            "Valor": 50489762,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2034,
+                            "Periodo": "Año",
+                            "Parametro": "2034",
+                            "Valor": 50554794,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "2035",
+                            "Valor": 50578363,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2036,
+                            "Periodo": "Año",
+                            "Parametro": "2036",
+                            "Valor": 50565546,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2037,
+                            "Periodo": "Año",
+                            "Parametro": "2037",
+                            "Valor": 50527117,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2038,
+                            "Periodo": "Año",
+                            "Parametro": "2038",
+                            "Valor": 50483726,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2039,
+                            "Periodo": "Año",
+                            "Parametro": "2039",
+                            "Valor": 50434916,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2040,
+                            "Periodo": "Año",
+                            "Parametro": "2040",
+                            "Valor": 50380053,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2041,
+                            "Periodo": "Año",
+                            "Parametro": "2041",
+                            "Valor": 50317710,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2042,
+                            "Periodo": "Año",
+                            "Parametro": "2042",
+                            "Valor": 50247779,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2043,
+                            "Periodo": "Año",
+                            "Parametro": "2043",
+                            "Valor": 50169389,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2044,
+                            "Periodo": "Año",
+                            "Parametro": "2044",
+                            "Valor": 50081576,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2045,
+                            "Periodo": "Año",
+                            "Parametro": "2045",
+                            "Valor": 49983821,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2046,
+                            "Periodo": "Año",
+                            "Parametro": "2046",
+                            "Valor": 49875559,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2047,
+                            "Periodo": "Año",
+                            "Parametro": "2047",
+                            "Valor": 49756557,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2048,
+                            "Periodo": "Año",
+                            "Parametro": "2048",
+                            "Valor": 49626423,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2049,
+                            "Periodo": "Año",
+                            "Parametro": "2049",
+                            "Valor": 49484861,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2050,
+                            "Periodo": "Año",
+                            "Parametro": "2050",
+                            "Valor": 49332139,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2051,
+                            "Periodo": "Año",
+                            "Parametro": "2051",
+                            "Valor": 49168537,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2052,
+                            "Periodo": "Año",
+                            "Parametro": "2052",
+                            "Valor": 48994288,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2053,
+                            "Periodo": "Año",
+                            "Parametro": "2053",
+                            "Valor": 48809737,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2054,
+                            "Periodo": "Año",
+                            "Parametro": "2054",
+                            "Valor": 48615587,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2055,
+                            "Periodo": "Año",
+                            "Parametro": "2055",
+                            "Valor": 48412655,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2056,
+                            "Periodo": "Año",
+                            "Parametro": "2056",
+                            "Valor": 48201741,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2057,
+                            "Periodo": "Año",
+                            "Parametro": "2057",
+                            "Valor": 47983809,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2058,
+                            "Periodo": "Año",
+                            "Parametro": "2058",
+                            "Valor": 47759777,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2059,
+                            "Periodo": "Año",
+                            "Parametro": "2059",
+                            "Valor": 47530800,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2060,
+                            "Periodo": "Año",
+                            "Parametro": "2060",
+                            "Valor": 47297994,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2061,
+                            "Periodo": "Año",
+                            "Parametro": "2061",
+                            "Valor": 47062428,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2062,
+                            "Periodo": "Año",
+                            "Parametro": "2062",
+                            "Valor": 46825208,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2063,
+                            "Periodo": "Año",
+                            "Parametro": "2063",
+                            "Valor": 46587247,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2064,
+                            "Periodo": "Año",
+                            "Parametro": "2064",
+                            "Valor": 46349410,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2065,
+                            "Periodo": "Año",
+                            "Parametro": "2065",
+                            "Valor": 46112484,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2066,
+                            "Periodo": "Año",
+                            "Parametro": "2066",
+                            "Valor": 45877483,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2067,
+                            "Periodo": "Año",
+                            "Parametro": "2067",
+                            "Valor": 45645198,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2068,
+                            "Periodo": "Año",
+                            "Parametro": "2068",
+                            "Valor": 45416290,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2069,
+                            "Periodo": "Año",
+                            "Parametro": "2069",
+                            "Valor": 45191507,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2070,
+                            "Periodo": "Año",
+                            "Parametro": "2070",
+                            "Valor": 44971408,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2071,
+                            "Periodo": "Año",
+                            "Parametro": "2071",
+                            "Valor": 44756493,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2072,
+                            "Periodo": "Año",
+                            "Parametro": "2072",
+                            "Valor": 44547155,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                },
+                {
+                    "Id": 6,
+                    "Nombre": "7. Saldo migratorio nulo",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "Personas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "2022",
+                            "Valor": 47432805,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "2023",
+                            "Valor": 47307348,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2024,
+                            "Periodo": "Año",
+                            "Parametro": "2024",
+                            "Valor": 47198408,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2025,
+                            "Periodo": "Año",
+                            "Parametro": "2025",
+                            "Valor": 47079649,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2026,
+                            "Periodo": "Año",
+                            "Parametro": "2026",
+                            "Valor": 46951862,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2027,
+                            "Periodo": "Año",
+                            "Parametro": "2027",
+                            "Valor": 46815627,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2028,
+                            "Periodo": "Año",
+                            "Parametro": "2028",
+                            "Valor": 46671487,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2029,
+                            "Periodo": "Año",
+                            "Parametro": "2029",
+                            "Valor": 46519929,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2030,
+                            "Periodo": "Año",
+                            "Parametro": "2030",
+                            "Valor": 46361294,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2031,
+                            "Periodo": "Año",
+                            "Parametro": "2031",
+                            "Valor": 46195924,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2032,
+                            "Periodo": "Año",
+                            "Parametro": "2032",
+                            "Valor": 46024229,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2033,
+                            "Periodo": "Año",
+                            "Parametro": "2033",
+                            "Valor": 45846512,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2034,
+                            "Periodo": "Año",
+                            "Parametro": "2034",
+                            "Valor": 45663058,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "2035",
+                            "Valor": 45474122,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2036,
+                            "Periodo": "Año",
+                            "Parametro": "2036",
+                            "Valor": 45279797,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2037,
+                            "Periodo": "Año",
+                            "Parametro": "2037",
+                            "Valor": 45079919,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2038,
+                            "Periodo": "Año",
+                            "Parametro": "2038",
+                            "Valor": 44873376,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2039,
+                            "Periodo": "Año",
+                            "Parametro": "2039",
+                            "Valor": 44659823,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2040,
+                            "Periodo": "Año",
+                            "Parametro": "2040",
+                            "Valor": 44438660,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2041,
+                            "Periodo": "Año",
+                            "Parametro": "2041",
+                            "Valor": 44208424,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2042,
+                            "Periodo": "Año",
+                            "Parametro": "2042",
+                            "Valor": 43968914,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2043,
+                            "Periodo": "Año",
+                            "Parametro": "2043",
+                            "Valor": 43719109,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2044,
+                            "Periodo": "Año",
+                            "Parametro": "2044",
+                            "Valor": 43457843,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2045,
+                            "Periodo": "Año",
+                            "Parametro": "2045",
+                            "Valor": 43184368,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2046,
+                            "Periodo": "Año",
+                            "Parametro": "2046",
+                            "Valor": 42897876,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2047,
+                            "Periodo": "Año",
+                            "Parametro": "2047",
+                            "Valor": 42597850,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2048,
+                            "Periodo": "Año",
+                            "Parametro": "2048",
+                            "Valor": 42283617,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2049,
+                            "Periodo": "Año",
+                            "Parametro": "2049",
+                            "Valor": 41954616,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2050,
+                            "Periodo": "Año",
+                            "Parametro": "2050",
+                            "Valor": 41610874,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2051,
+                            "Periodo": "Año",
+                            "Parametro": "2051",
+                            "Valor": 41252462,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2052,
+                            "Periodo": "Año",
+                            "Parametro": "2052",
+                            "Valor": 40879455,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2053,
+                            "Periodo": "Año",
+                            "Parametro": "2053",
+                            "Valor": 40492076,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2054,
+                            "Periodo": "Año",
+                            "Parametro": "2054",
+                            "Valor": 40090976,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2055,
+                            "Periodo": "Año",
+                            "Parametro": "2055",
+                            "Valor": 39676973,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2056,
+                            "Periodo": "Año",
+                            "Parametro": "2056",
+                            "Valor": 39250938,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2057,
+                            "Periodo": "Año",
+                            "Parametro": "2057",
+                            "Valor": 38813969,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2058,
+                            "Periodo": "Año",
+                            "Parametro": "2058",
+                            "Valor": 38367174,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2059,
+                            "Periodo": "Año",
+                            "Parametro": "2059",
+                            "Valor": 37911960,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2060,
+                            "Periodo": "Año",
+                            "Parametro": "2060",
+                            "Valor": 37449756,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2061,
+                            "Periodo": "Año",
+                            "Parametro": "2061",
+                            "Valor": 36981992,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2062,
+                            "Periodo": "Año",
+                            "Parametro": "2062",
+                            "Valor": 36510189,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2063,
+                            "Periodo": "Año",
+                            "Parametro": "2063",
+                            "Valor": 36035674,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2064,
+                            "Periodo": "Año",
+                            "Parametro": "2064",
+                            "Valor": 35559763,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2065,
+                            "Periodo": "Año",
+                            "Parametro": "2065",
+                            "Valor": 35083701,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2066,
+                            "Periodo": "Año",
+                            "Parametro": "2066",
+                            "Valor": 34608967,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2067,
+                            "Periodo": "Año",
+                            "Parametro": "2067",
+                            "Valor": 34136796,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2068,
+                            "Periodo": "Año",
+                            "Parametro": "2068",
+                            "Valor": 33668253,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2069,
+                            "Periodo": "Año",
+                            "Parametro": "2069",
+                            "Valor": 33204473,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2070,
+                            "Periodo": "Año",
+                            "Parametro": "2070",
+                            "Valor": 32746359,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2071,
+                            "Periodo": "Año",
+                            "Parametro": "2071",
+                            "Valor": 32294702,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2072,
+                            "Periodo": "Año",
+                            "Parametro": "2072",
+                            "Valor": 31850143,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
